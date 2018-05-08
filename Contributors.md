@@ -3636,6 +3636,7 @@
 - [Rahul](https://github.com/RahulReddy75)
 - [Rani Rawat](https://github.com/ranirawat)
 - [Alex Yanovsky](https://github.com/ayanovsk)
+- [Krishan kataria](https://github.com/krishan-kataria)
 - [Juan C. Vilarrubia](https://github.com/jucavi)
 - [Gregory Vinyard](https://github.com/gregvinyard)
 - [Daniel Berryman](https://github.com/danielberryman)
